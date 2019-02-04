@@ -1,0 +1,12 @@
+.entete {
+    
+    text-align: center;
+    color: rgb(256, 256, 256);
+}
+
+body {
+	background-image: url("../../static/images/1.jpg");
+	padding: 20px;
+	border 5px;
+	border-image: url("../../static/images/2.jpg");
+}
